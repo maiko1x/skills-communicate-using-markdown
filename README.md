@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations maiko1x! 🎉
+# 🎉 Congratulations maiko1x! 🎉 
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
